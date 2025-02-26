@@ -39,10 +39,12 @@ As shown above this is where I make a ticket as a an end user to give my wokers 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+
+![Screenshot 2025-02-25 233650](https://github.com/user-attachments/assets/8498c458-0cd7-4cfc-aab7-ac9e32827451)
+
+In the screenshot above this is showing me working the ticket under my workers name "John Doe". As shown in the picture I picked up the ticket and began working. I first acknowledge the issue then depending on the issue I adjusted the severity to "Sev-A". Sev-A means that issue needs to be solved within an hour. I then changed the topic issue to "Bussiness Critical Outage".
 </p>
 <br />
 
